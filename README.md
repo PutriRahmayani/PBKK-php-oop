@@ -1,3 +1,6 @@
+NAMA : PUTRI RAHMAYANI
+NPM : G1A021030
+
 1. Jelaskan konsep OOP pada PHP
    Jawab : 
    Object Oriented Programming(OOP) merupakan paradigma pemrograman yang digunakan dalam PHP dan banyak juga bahasa pemrograman lainnya. OOP mengorganisasi kode kedalam objek-objek yang memiliki atribut dan metode(fungsi) yang saling berinteraksi. Tujuannya yaitu untuk mengelompokkan data dan fungsi yang terkait menjadi sebuah entitas tunggal yang disebut objek. PHP mendukung OOP dan memiliki fitur-fitur untuk menerapkan konsep-konsep dasar OOP seperti :
